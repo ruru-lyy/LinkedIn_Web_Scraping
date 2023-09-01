@@ -50,7 +50,7 @@ Before you can use this program, make sure you have the following prerequisites 
 
 6. Download and install ChromeDriver or the appropriate WebDriver for your browser. Make sure to add the WebDriver executable to your system's PATH.
 
-**### Usage <a name="usage"></a>**
+### Usage <a name="usage"></a>
 To use this program, follow these steps:
 
 1. Navigate to the LinkedIn post from which you want to scrape reactions.
