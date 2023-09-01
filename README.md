@@ -29,23 +29,22 @@ Before you can use this program, make sure you have the following prerequisites 
 
 1. Clone this repository to your local machine:
 
-   ```bash
    git clone https://github.com/your-username/LinkedIn_Web_Scraping.git
 
 2. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) (for web scraping): You can install it using pip with the following command:
-  ```bash
+
   pip install beautifulsoup4
 
 3. Requests library (for making HTTP requests): You can install it using pip with the following command:
-```bash
+
   pip install requests
 
 4. Selenium (for web automation): You can install it using pip with the following command:
-```bash
+
   pip install selenium
 
 5. OpenPyXL (for working with Excel files): You can install it using pip with the following command:
-```bash
+
   pip install openpyxl
 
 6. Download and install ChromeDriver or the appropriate WebDriver for your browser. Make sure to add the WebDriver executable to your system's PATH.
