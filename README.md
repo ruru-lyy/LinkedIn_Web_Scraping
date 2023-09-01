@@ -54,7 +54,7 @@ To use this program, follow these steps:
 
 1. Navigate to the LinkedIn post from which you want to scrape reactions.
 
-2. Run the Python script [`linkedin_scraper.py`](linkedin_scraper.py).
+2. Run the Python script [`linkedin_scraper.py`](https://github.com/ruru-lyy/LinkedIn_Web_Scraping/blob/main/linkedin_scraper.ipynb).
 
    The program will prompt you to enter the LinkedIn post URL. Copy and paste the URL of the post you want to scrape and press Enter.
 
@@ -72,7 +72,7 @@ This program works by utilizing web scraping techniques to access the reactions 
 5. The script navigates through the reactions list, extracts the required information, and stores it in a structured format.
 
 ## Sample Output <a name="sample-output"></a>
-You can find a sample CSV file in the `output` directory, which contains the scraped profile details from a LinkedIn post.
+You can find a sample XLSX file [`linkedin_reactions.xlsx`](https://github.com/ruru-lyy/LinkedIn_Web_Scraping/blob/main/linkedin_reactions.xlsx) that contains the scraped profile details from a LinkedIn post.
 
 ## Challenges <a name="challenges"></a>
 
